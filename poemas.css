@@ -1,0 +1,15 @@
+body{
+    color: white;
+    background-color: rgb(15, 15, 15);
+    font-family: arial,Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: blueviolet;
+}
+.container{
+    padding: 0px 50px;    
+ }
+
+ h2{
+    color: rgb(176, 117, 231);
+ }

@@ -1,0 +1,11 @@
+body{
+    color: white;
+    background-color: rgb(15, 15, 15);
+    font-family: arial,Arial, Helvetica, sans-serif;
+}
+img{
+    width: 300px;
+    height: 500px;
+    border-radius: 10%;
+    border: 2px solid  rgb(176, 117, 231);
+}
